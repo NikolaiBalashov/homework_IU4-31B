@@ -1,1 +1,2 @@
-# homework_IU4-31B
+#This is variant 1 of homework
+This code converts decimal numbers to binary using bitwise "and" operation
